@@ -1,0 +1,8 @@
+{
+  "short_name": "Pet Insurance",
+  "name": "PolicyBazaar Pet insurance",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="227" height="24" viewBox="0 0 227 24">
+  <g id="Group_221463" data-name="Group 221463" transform="translate(-24 -207)">
+    <g id="Group_85541" data-name="Group 85541" transform="translate(8 8)">
+      <path id="Path_99151" data-name="Path 99151" d="M0,0H61" transform="translate(48 211)" fill="none" stroke="#36b37e" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_99153" data-name="Path 99153" d="M0,0H62" transform="translate(149 211)" fill="none" stroke="#36b37e" stroke-linecap="round" stroke-width="1"/>
+      <g id="Group_86867" data-name="Group 86867" transform="translate(-8)">
+        <circle id="Ellipse_442" data-name="Ellipse 442" cx="12" cy="12" r="12" transform="translate(24 199)" fill="#36b37e"/>
+        <text id="_1" data-name="1" transform="translate(32 216)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g id="Group_86868" data-name="Group 86868" transform="translate(-3)">
+        <g id="Ellipse_443" data-name="Ellipse 443" transform="translate(120 199)" fill="#36b37e" stroke="#36b37e" stroke-width="1">
+          <circle cx="12" cy="12" r="12" stroke="none"/>
+          <circle cx="12" cy="12" r="11.5" fill="none"/>
+        </g>
+        <text id="_2" data-name="2" transform="translate(128 216)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Group_86869" data-name="Group 86869" transform="translate(3)">
+        <g id="Ellipse_444" data-name="Ellipse 444" transform="translate(216 199)" fill="#36b37e" stroke="#36b37e" stroke-width="1">
+          <circle cx="12" cy="12" r="12" stroke="none"/>
+          <circle cx="12" cy="12" r="11.5" fill="none"/>
+        </g>
+        <text id="_3" data-name="3" transform="translate(224 216)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,185 @@
+.pblogo {
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.design1 {
+  top: -218.0413818359375px;
+  left: 980px;
+  width: 375px;
+  height: 436px;
+  transform: matrix(0, -1, 1, 0, 0, 0);
+  background: #FFF6D8 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.designTR {
+  float: right;
+  margin-top: -10px;
+  z-index: -1;
+}
+
+.designBL {
+  float: left;
+  margin-left: -216px;
+  margin-top: 244px;
+  position: absolute;
+  z-index: -1;
+}
+
+.lineTL {
+  position: absolute;
+  margin-left: -209px;
+  z-index: -1;
+}
+
+.centreDiv {
+  display: block;
+  width: 70%;
+  margin: auto;
+}
+
+.fieldMarginR {
+  margin-left: 30px;
+}
+
+.fieldMarginL {
+  margin-left: -52px;
+}
+
+.pform {
+  margin-top: 35px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 4em;
+  margin-top: 10px;
+}
+
+.quoteBtn {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+.grayBtn {
+  background-color: gray;
+  top:0;
+  left:0;
+  height:100%;
+  width: 100%;
+  position: absolute;
+  opacity: 0.7;
+}
+
+.nameDialog {
+  background-color:white;
+  border-radius: 10px;
+  top:20%;
+  left:30%;
+  height:400px;
+  width: 510px;
+  position: absolute;
+}
+
+.nameDialogImg {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  width: 40%;
+}
+
+.input-group-text {
+  background-color: blue;
+  color: white;
+  justify-content: center;
+  width: 6pc;
+}
+
+.nameDialogTxt {
+  margin: auto;
+  margin-top: 30px;
+  width: 78%;
+}
+
+.nameLabel {
+  display: block;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  font-family: MerriWeather;
+  font-size: larger;
+  font-weight: bold;
+  margin-top: 14px;
+}
+
+.infoBlock {
+  background-color: white;
+  height: 280px;
+  border-radius: 30px;
+  border-color: lightgray;
+  border-width: thin;
+  border-style: solid;
+  margin-top: 37px;
+}
+
+.plainText {
+  font-family: Roboto;
+  color: #253858;
+  opacity: .8;
+  margin-top: 27px;
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 2s linear;
+}
+
+.orText {
+  position: absolute;
+  font-family: Roboto;
+  color: #253858;
+  opacity: .8;
+  margin-top: -64px;
+  margin-left: 457px;
+  font-size: 18px;
+}
+
+.steps {
+  display: block;
+  margin: 0 0 0 352px;
+  padding-top: 2pc;
+}
+
+.pet {
+  height: 100;
+  margin-left: 150px;
+}
+
+.cattle {
+  float: right;
+  height: 100;
+  margin-right: 150px;
+}
+
+.pButton {
+  width: 142px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 0.95em;
+  margin-top: 130px;
+}
+
+.pButtonP {
+  position: absolute;
+  margin-left: -126px;
+}
+
+.pButtonC {
+  margin-right: -123px;
+  float: right;
+}
